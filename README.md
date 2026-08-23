@@ -155,7 +155,7 @@ I included the verified screenshots below from the supplied **cosmic-developer**
   <a href="./screenshots/cosmic-developer-screenshot-4.png"><img src="./screenshots/cosmic-developer-screenshot-4.png" alt="cosmic-developer screenshot 4" width="48%"></a>
 </div>
 
-[hOpen screenshot 3](./screenshots/cosmic-developer-screenshot-3.png) · [Open screenshot 4](./screenshots/cosmic-developer-screenshot-4.png)
+[Open screenshot 3](./screenshots/cosmic-developer-screenshot-3.png) · [Open screenshot 4](./screenshots/cosmic-developer-screenshot-4.png)
 
 <div align="center">
   <a href="./screenshots/cosmic-developer-screenshot-5.png"><img src="./screenshots/cosmic-developer-screenshot-5.png" alt="cosmic-developer screenshot 5" width="48%"></a>
